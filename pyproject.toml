@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nanovec"
+version = "0.1.0"
+description = "A lightweight, strictly-typed vector database for local RAG."
+authors = [
+  { name="Amit Prakash", email="amit@example.com" },
+]
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Developers",
+    "Topic :: Database",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "numpy>=1.24.0",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/iamitprakash/NanoVec"
+"Bug Tracker" = "https://github.com/iamitprakash/NanoVec/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]

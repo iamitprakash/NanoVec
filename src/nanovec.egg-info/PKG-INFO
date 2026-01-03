@@ -1,3 +1,22 @@
+Metadata-Version: 2.4
+Name: nanovec
+Version: 0.1.0
+Summary: A lightweight, strictly-typed vector database for local RAG.
+Author-email: Amit Prakash <amit@example.com>
+Project-URL: Homepage, https://github.com/iamitprakash/NanoVec
+Project-URL: Bug Tracker, https://github.com/iamitprakash/NanoVec/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Database
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.24.0
+Dynamic: license-file
+
 # NanoVec - Lightweight Vector Database
 
 [![Tests](https://github.com/iamitprakash/NanoVec/actions/workflows/python-test.yml/badge.svg)](https://github.com/iamitprakash/NanoVec/actions/workflows/python-test.yml)

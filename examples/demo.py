@@ -1,5 +1,6 @@
 import numpy as np
-from vector_db import VectorDB
+from nanovec import VectorDB
+
 
 def main():
     print("Initializing Vector Database (Dimension=3)...")

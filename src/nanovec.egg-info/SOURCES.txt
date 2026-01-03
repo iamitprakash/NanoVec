@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/nanovec/__init__.py
+src/nanovec/exceptions.py
+src/nanovec/index.py
+src/nanovec/store.py
+src/nanovec/utils.py
+src/nanovec.egg-info/PKG-INFO
+src/nanovec.egg-info/SOURCES.txt
+src/nanovec.egg-info/dependency_links.txt
+src/nanovec.egg-info/requires.txt
+src/nanovec.egg-info/top_level.txt
+tests/test_core.py
