@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Database Persistence
+my_vector_db/
+my_rag_db/
+my_index/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Output
+output.txt
