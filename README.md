@@ -65,10 +65,6 @@ Check the `examples/` directory for a complete running demo:
 python examples/demo.py
 ```
 
-## Contributing
-
-We welcome contributions! Please check out [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
-
 ## License
 
 MIT
