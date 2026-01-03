@@ -1,7 +1,6 @@
 LICENSE
 README.md
 pyproject.toml
-setup.py
 src/nanovec/__init__.py
 src/nanovec/exceptions.py
 src/nanovec/index.py
